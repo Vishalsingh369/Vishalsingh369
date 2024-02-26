@@ -36,9 +36,9 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
-- :seedling:🌱 I’m currently exploring more features of Reactjs
-- :seedling:👨‍💻 All of my projects are available at https://github.com/Vishalsingh369
-- :seedling:💬 Ask me about React & Open Source
+🌱 I’m currently exploring more features of Reactjs
+👨‍💻 All of my projects are available at https://github.com/Vishalsingh369
+💬 Ask me about React & Open Source
 
 - :seedling: Exploring Technical Content Writing.
 
