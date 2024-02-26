@@ -36,10 +36,13 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
+- :seedling:🌱 I’m currently exploring more features of Reactjs
+- :seedling:👨‍💻 All of my projects are available at https://github.com/Vishalsingh369
+- :seedling:💬 Ask me about React & Open Source
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-thakur-a-m8085/)
 
