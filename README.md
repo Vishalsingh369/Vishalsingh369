@@ -21,6 +21,7 @@
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+     I'm Vishal Thakur
 </h1>
 </div>
 </div>
@@ -32,13 +33,13 @@
 ---
 
 ### :man_technologist: About Me :
+A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.I have an immense interest in automating things up and contributing to open source
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-
-🌱 I’m currently exploring more features of Reactjs
-👨‍💻 All of my projects are available at https://github.com/Vishalsingh369
-💬 Ask me about React & Open Source
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. <br>
+- 🌱 I’m currently exploring advanced features of Reactjs <br>
+- 👨‍💻 All of my projects are available at https://github.com/Vishalsingh369 <br>
+- 💬 Ask me about React & Open Source <br>
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -76,6 +77,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vishalsingh369&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishalsingh369&show_icons=true&theme=dark)](https://github.com/Vishalsingh369)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalsingh369&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
